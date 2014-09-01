@@ -9,7 +9,7 @@ Pre-requisites:
 
 2. Arduino Ethernet Shield
    Note: This was tested with an Arduino Ethernet Shield that hosts the Wiznet W5100 Ethernet chip.
-         It also should work on newer Ethernet shields with the W5200 such as the Seed Studio Ethernet Shiled V2
+         It also should work on newer Ethernet shields with the W5200 such as the Seed Studio Ethernet Shield V2.0
          http://www.seeedstudio.com/wiki/Ethernet_Shield_V2.0
          
 3. OSCuino library ->  https://github.com/CNMAT/OSC
